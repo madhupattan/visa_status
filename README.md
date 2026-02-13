@@ -39,4 +39,6 @@ project- folder/
 - Readme file
 - License
 
-- 
+# Results/Output
+- cleaned missing demographic values.
+- prepared data to build machine learning models.
