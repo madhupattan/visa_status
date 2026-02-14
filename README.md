@@ -5,7 +5,7 @@ AI Enabled Visa Status Processing Time Prediction
 This project analyzes visa application and decision data to study processing times, approval trends, and demogrphic patterns.
 
 # Features
-- Dataset Exploration
+- Dataset Collection and Exploration
 - Data cleaning and preprocessing
 - Handling missing values and duplicates
 - Feature extraction
