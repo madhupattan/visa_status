@@ -31,6 +31,8 @@ Installing dependencies
 - pandas
 - NumPy
 - Scikit-learn
+- matplotlib
+- seaborn
 
 # Project Structure
 project- folder/
@@ -42,3 +44,5 @@ project- folder/
 # Results/Output
 - cleaned missing demographic values.
 - prepared data to build machine learning models.
+- prepared data visualizations to understand patterns using matplotlib and seaborn libraries.
+- prepared feature engineering from existing variables.
