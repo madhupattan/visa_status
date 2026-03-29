@@ -62,3 +62,6 @@ project- folder/
  - add more input features
  - improve UI/UX
  - add model performance metrics
+
+# Model deployment link on StreamlitCloud
+https://visastatus-ezw3e3ukmmxmqe3ejjmmta.streamlit.app/
