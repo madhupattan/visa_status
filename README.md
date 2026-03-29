@@ -64,4 +64,5 @@ project- folder/
  - add model performance metrics
 
 # Model deployment link on StreamlitCloud
-https://visastatus-ezw3e3ukmmxmqe3ejjmmta.streamlit.app/
+https://better-rtgvn2p4btgkxqm3yvft36.streamlit.app/
+
